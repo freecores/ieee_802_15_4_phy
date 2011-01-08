@@ -1,0 +1,4 @@
+rtl/vhdl/chip_gen.vhd  
+rtl/vhdl/tx_core.vhd  
+rtl/vhdl/tx_fir.vhd	
+rtl/vhdl/upsampler.vhd
