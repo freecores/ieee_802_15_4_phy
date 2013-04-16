@@ -1,5 +1,0 @@
-rtl/vhdl/downsampler.vhd  
-rtl/vhdl/rx_core.vhd  
-rtl/vhdl/rx_fir.vhd  
-rtl/vhdl/rz_enc.vhd  
-rtl/vhdl/sym_corr.vhd  
